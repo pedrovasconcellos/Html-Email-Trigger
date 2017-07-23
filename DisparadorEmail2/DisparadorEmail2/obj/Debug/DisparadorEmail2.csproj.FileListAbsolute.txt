@@ -1,0 +1,23 @@
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\DisparadorEmail2\DisparadorEmail2\bin\Debug\DisparadorEmail2.exe.config
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\DisparadorEmail2\DisparadorEmail2\bin\Debug\DisparadorEmail2.exe
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\DisparadorEmail2\DisparadorEmail2\bin\Debug\DisparadorEmail2.pdb
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\DisparadorEmail2\DisparadorEmail2\bin\Debug\HtmlAgilityPack.dll
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\DisparadorEmail2\DisparadorEmail2\bin\Debug\HtmlAgilityPack.pdb
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\DisparadorEmail2\DisparadorEmail2\bin\Debug\HtmlAgilityPack.xml
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\DisparadorEmail2\DisparadorEmail2\obj\Debug\DisparadorEmail2.Form1.resources
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\DisparadorEmail2\DisparadorEmail2\obj\Debug\DisparadorEmail2.Properties.Resources.resources
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\DisparadorEmail2\DisparadorEmail2\obj\Debug\DisparadorEmail2.csproj.GenerateResource.Cache
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\DisparadorEmail2\DisparadorEmail2\obj\Debug\DisparadorEmail2.exe
+c:\users\pedro.vasconcellos\documents\visual studio 2015\Projects\DisparadorEmail2\DisparadorEmail2\obj\Debug\DisparadorEmail2.pdb
+C:\Project\DisparadorEmail2\DisparadorEmail2\bin\Debug\DisparadorEmail2.exe.config
+C:\Project\DisparadorEmail2\DisparadorEmail2\bin\Debug\DisparadorEmail2.exe
+C:\Project\DisparadorEmail2\DisparadorEmail2\bin\Debug\DisparadorEmail2.pdb
+C:\Project\DisparadorEmail2\DisparadorEmail2\bin\Debug\HtmlAgilityPack.dll
+C:\Project\DisparadorEmail2\DisparadorEmail2\bin\Debug\HtmlAgilityPack.pdb
+C:\Project\DisparadorEmail2\DisparadorEmail2\bin\Debug\HtmlAgilityPack.xml
+C:\Project\DisparadorEmail2\DisparadorEmail2\obj\Debug\DisparadorEmail2.csprojResolveAssemblyReference.cache
+C:\Project\DisparadorEmail2\DisparadorEmail2\obj\Debug\DisparadorEmail2.Form1.resources
+C:\Project\DisparadorEmail2\DisparadorEmail2\obj\Debug\DisparadorEmail2.Properties.Resources.resources
+C:\Project\DisparadorEmail2\DisparadorEmail2\obj\Debug\DisparadorEmail2.csproj.GenerateResource.Cache
+C:\Project\DisparadorEmail2\DisparadorEmail2\obj\Debug\DisparadorEmail2.exe
+C:\Project\DisparadorEmail2\DisparadorEmail2\obj\Debug\DisparadorEmail2.pdb
